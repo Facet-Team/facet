@@ -53,7 +53,7 @@
                             <span class="highlight-letter">T</span>racking for
                             Legged Robots
                         </h2>
-                        <p class="text-h4 font-weight-light mb-4 text-white text-shadow">CoRL 2025 Oral</p>
+                        <p class="text-h5 font-weight-bold mb-4 text-shadow" style="color: #ff6b6b;">CoRL 2025 Oral</p>
                         <div>
                             <v-row class="d-flex" style="flex-wrap: wrap;" justify="center">
                                 <v-col v-for="(link, index) in headerLinks" :key="index" cols="auto">
