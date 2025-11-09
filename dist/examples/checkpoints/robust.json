@@ -82,5 +82,8 @@
                 "name": "VelocityCommand"
             }
         ]
-    }
+    },
+    "action_scale": 0.5,
+    "stiffness": 25.0,
+    "damping": 0.5
 }

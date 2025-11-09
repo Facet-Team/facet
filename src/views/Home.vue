@@ -44,7 +44,7 @@
                         <h1 style="font-size: 20vw; line-height: 0.95; user-select: none; -webkit-user-select: none; -ms-user-select: none;"
                             class="font-weight-light mb-4 text-white text-shadow">FACET
                         </h1>
-                        <h2 class="text-h2 font-weight-light mb-8 text-white text-shadow"
+                        <h2 class="text-h2 font-weight-light mb-4 text-white text-shadow"
                             style="font-size: 3.3vw !important;">
                             <span class="highlight-letter">F</span>orce-<span class="highlight-letter">A</span>daptive
                             <span class="highlight-letter">C</span>ontrol
@@ -53,6 +53,7 @@
                             <span class="highlight-letter">T</span>racking for
                             Legged Robots
                         </h2>
+                        <p class="text-h4 font-weight-light mb-4 text-white text-shadow">CoRL 2025 Oral</p>
                         <div>
                             <v-row class="d-flex" style="flex-wrap: wrap;" justify="center">
                                 <v-col v-for="(link, index) in headerLinks" :key="index" cols="auto">
